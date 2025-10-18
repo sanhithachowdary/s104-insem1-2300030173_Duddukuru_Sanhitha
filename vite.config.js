@@ -5,4 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
       base: '/s104-insem1-2300030173_Duddukuru_Sanhitha/', // 👈 your repo name
+    
 })
